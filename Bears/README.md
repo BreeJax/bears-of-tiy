@@ -1,6 +1,9 @@
 # README
 
-This document contains some basic instructions for how to interact with this project
+This is a pure html project project where we learned how to connect html files, and how to set up different aspects.
+
+
+Below are the instructions involved in creating this project.
 
 ## Solution Files
 Solutions to the coding challenges are included with this activity.
